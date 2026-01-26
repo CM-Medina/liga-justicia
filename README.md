@@ -13,3 +13,7 @@ preparando actualizacion para subir a Github desde vscode y la consola y actuali
 ## Estos cambios son nuevos enero 2026 desde la plataforma de github
 
 preparando actualizacion desde la web
+
+## Estos cambios son de actualizacion en github enero 2026
+
+actualizacion y union desde las dos plataformas desde la web y local
